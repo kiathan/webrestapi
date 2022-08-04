@@ -1,4 +1,4 @@
-Django==2.2.27
+Django==3.2.15
 django-filter==2.4.0
 djangorestframework==3.4.7
 ElfEsteem==0.1
