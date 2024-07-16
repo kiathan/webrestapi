@@ -9,3 +9,4 @@ PyInstaller==3.2
 pyparsing==1.5.7
 pywin32==220
 virtualenv==15.0.2
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
